@@ -1,3 +1,11 @@
+
+run development server: npm start
+start json server backend: npm run server
+build for production: npm run build
+serve production: serve -s build -p 8000
+
+install serve: npm install -g serve
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
